@@ -11,7 +11,7 @@ body{
     outline:none!important;
 }
 .bg-black{
-    background: #000;
+    background: darkred;
 }
 /*===Slider===*/
 .carousel-item{
@@ -36,11 +36,11 @@ body{
     color: #fff;
 }
 .btn-color{
-    background: #000;
-    color: gray;
+    background-color: #fff;
+    color: blue;
 }
 .btn-color:hover{
-    color: #fff;
+    color: red;
 }
 @keyframes slide-btn {
     16%{
@@ -82,13 +82,13 @@ body{
     display: inline-block;
     font-size: 32px;
     margin-bottom: 16px;
-    color: #000;
+    color: red;
     padding: 8px 16px;
 }
 /*======End of Service Section====*/
 /*=======Products section=======*/
 #products{
-  background:#000;
+  background:darkred;
 }
 .product-title{
   color: #fff;
@@ -194,7 +194,7 @@ animation-duration: 3s;
 }
 /*Best Seller== */
 .seller{
-background: #000;
+background: darkred;
 color: #fff;
 margin-top: 30px;
 }
@@ -299,7 +299,7 @@ animation-iteration-count: 1;
 }
 /*==Footer===*/
 .footer{
-background: #000;
+background: darkred;
 color: #fff;
 }
 .fab{
